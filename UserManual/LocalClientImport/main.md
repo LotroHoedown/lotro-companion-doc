@@ -8,7 +8,7 @@ Especially, the installation directory of the client shall be correct. See [HERE
 ## Import
 Start your game client. Select the character you want to use and enter the Middle Earth.
 
-Click on the 'Import from LotRO' button. This will bring the window 'Import from local client'.
+Click on the 'Import from LotRO' button from the Misc menu. This will bring the window 'Import from local client'.
 
 ![Screenshot of import window](ImportWindow.png)
 
